@@ -5,7 +5,7 @@ echo Information about places:
 #Task 1
 for place in "${COUNTRIES[@]}";do
 
-	echo  Information about $place.
+	echo  $place.
 	#Task 1
 	echo  Number of places:
 	len=$(cut -f 8 places.tsv | grep "$place" | sort --unique | wc -l)
