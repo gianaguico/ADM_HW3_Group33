@@ -8,4 +8,5 @@ Group members:
 - Lorenzo Beccaceci
 
 In the following repository, you will:
--./files
+- files: a folder containing pkl files
+- Question 6 (CommandLine question): with the bash script and the output of the script
