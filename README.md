@@ -7,6 +7,6 @@ Group members:
 - Carolina Romani
 - Lorenzo Beccaceci
 
-In the following repository, you will:
+In the following repository, you will find:
 - files: a folder containing pkl files
 - Question 6 (CommandLine question): with the bash script and the output of the script
