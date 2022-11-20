@@ -8,6 +8,6 @@ Group members:
 - Lorenzo Beccaceci
 
 In the following repository, you will find:
-- The main notebook #ADM_HW3.ipynb
+- The main notebook *ADM_HW3.ipynb*
 - files: a folder containing pkl files
 - Question 6 (CommandLine question): with the bash script and the output of the script
